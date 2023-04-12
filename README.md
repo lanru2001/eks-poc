@@ -1,4 +1,4 @@
-Synopsis
+# Synopsis
 
 The purpose of this document is to describe the proof of concept (POC) created for the DLFrame migration to AWS EKS. The POC was created as a guide in setting up and migrating DLFrame services from AWS EC2 hosting to AWS EKS.
 
